@@ -1,4 +1,3 @@
-My Awesome Book
-=======
+# Java嫌いな人のためのJavaエッセンス
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+多言語をやってる人がJavaをやらざるを得ない状況向け
