@@ -8,5 +8,5 @@
 * [Interface](interface.md)
 * [Enum](enum.md)
 * [Annotation](annotation.md)
-* Visibility
+* [Visibility](visibility.md)
 
