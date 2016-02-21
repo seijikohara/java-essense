@@ -7,4 +7,5 @@
 * [Class](class.md)
 * [Interface](interface.md)
 * Enum
+* Annotation
 
