@@ -5,5 +5,5 @@
 * [Compile & Run](compile_&_run.md)
 * [Type](type.md)
 * [Class](class.md)
-* Interface
+* [Interface](interface.md)
 
