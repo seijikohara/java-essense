@@ -6,4 +6,5 @@
 * [Type](type.md)
 * [Class](class.md)
 * [Interface](interface.md)
+* Enum
 
